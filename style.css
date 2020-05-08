@@ -46,6 +46,23 @@
 
   .light-text   { color: white; }
   .flex-flip:nth-child(2n){  flex-direction: row-reverse; }
+  /* General typography */
+
+  h2, h3, h4, h5, h6 {
+    line-height: 1;
+    margin-bottom: 0.8rem;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 200;
+  }
+
+  h2  { font-size: 2.2rem; }
+  h3  { font-size: 1.8rem;  }
+  h4  { font-size: 1.4rem;  }
+  p   { font-size: 1rem;  }
+
+  p, ul {
+     margin-bottom: 0.8rem;
+  }
 
 /* Header */
 
@@ -80,19 +97,19 @@
         padding: 0.5rem;
       }
       nav a:hover {
-        color: #e67e22;
+        color: #606A6A ;
       }
 
       header nav a.emphasis {
         /* padding: 0.5rem 2rem; */
         margin: 0 0.5rem;
-        border: 1px solid #e67e22;
+        border: 1px solid #606A6A ;
         border-radius: 2px;
-        color: #e67e22;
+        color: #606A6A ;
       }
 
       header nav a.emphasis:hover {
-        background-color: #e67e22;
+        background-color: #606A6A ;
         color: white;
       }
 
