@@ -124,27 +124,27 @@
 
 
       .bg-image {
-        background-image: url('../images/laptop.jpg');
+        background-image: url('/images/laptop.jpg');
         background-size: cover;
         background-position: center;
         min-height: 10rem;
       }
 
       .bg-image2 {
-        background-image: url('../images/weeklyplanner.jpg');
+        background-image: url('/images/weeklyplanner.jpg');
         background-size: cover;
         background-position: center;
         min-height: 10rem;
       }
       .banner{
   color: white;
-  background-image: url("images/birdseyelaptop.jpg");
+  background-image: url("/images/birdseyelaptop.jpg");
   background-size: cover;
   min-height: 75vh;
 }
 .image1{
   color: white;
-  background-image: url("images/dog.jpg");
+  background-image: url("/images/dog.jpg");
   background-size: cover;
   background-position: center;
   min-height: 75vh;
@@ -152,7 +152,7 @@
 
 .image2{
     color: white;
-    background-image: url("images/bedroom.jpg");
+    background-image: url("/images/bedroom.jpg");
     background-size: cover;
     background-position: center;
     min-height: 75vh;
