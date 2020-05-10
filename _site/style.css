@@ -42,7 +42,9 @@
 
   .dark-bg      {  background-color: #D5D5D5 ;     }
   .light-bg     {  background-color: #E6E6E6;  }
-  .featured-bg  {  background-color: #FFE6E6;       }
+  .featured-bg  {  background-color: #FFE6E6  ;       }
+
+  /* #FFE6E6 */
 
   .light-text   { color: white; }
   .flex-flip:nth-child(2n){  flex-direction: row-reverse; }
@@ -127,14 +129,14 @@
         background-image: url('/images/laptop.jpg');
         background-size: cover;
         background-position: center;
-        min-height: 10rem;
+        min-height: 40rem;
       }
 
       .bg-image2 {
         background-image: url('/images/weeklyplanner.jpg');
         background-size: cover;
         background-position: center;
-        min-height: 10rem;
+        min-height: 40rem;
       }
       .banner{
   color: white;
@@ -152,11 +154,28 @@
 
 .image2{
     color: white;
-    background-image: url("/images/bedroom.jpg");
+    background-image: url("/images/diary.jpg");
     background-size: cover;
     background-position: center;
     min-height: 75vh;
   }
+
+  .image3{
+      color: white;
+      background-image: url("/images/meetings.jpg");
+      background-size: cover;
+      background-position: center;
+      min-height: 75vh;
+    }
+
+    .image4{
+        color: white;
+        background-image: url("/images/femaleplanner.jpg");
+        background-size: cover;
+        background-position: center;
+        min-height: 75vh;
+      }
+
 
       .card {
     padding: 2rem;
