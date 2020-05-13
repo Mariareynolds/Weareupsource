@@ -202,7 +202,21 @@ min-height: 120vh;
     margin-bottom: 2rem;
     }
 
+    .fas{
+    padding: 0.75%
+    color: white;
+    font-size: 3rem;
+    padding-bottom: 2rem;
 
+  }
+
+.underlined{
+  text-decoration: underline;
+}
+
+.underline-border{
+  border-bottom: 3px dotted grey;
+}
     .button,
       .button-solid,
       .button-inverted {
