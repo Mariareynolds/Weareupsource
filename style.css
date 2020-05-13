@@ -129,14 +129,14 @@
         background-image: url('/images/laptop.jpg');
         background-size: cover;
         background-position: center;
-        min-height: 40rem;
+        min-height: 30rem;
       }
 
       .bg-image2 {
         background-image: url('/images/weeklyplanner.jpg');
         background-size: cover;
         background-position: center;
-        min-height: 40rem;
+        min-height: 30rem;
       }
       .banner{
   color: white;
@@ -149,7 +149,7 @@
 color: white;
 background-image: url("/images/me.jpg");
 background-size: cover;
-min-height: 120vh;
+min-height: 7vh;
 }
 
 
@@ -205,7 +205,7 @@ min-height: 120vh;
     .fas{
     padding: 0.75%
     color: white;
-    font-size: 3rem;
+    font-size: 6rem;
     padding-bottom: 2rem;
 
   }
