@@ -149,7 +149,9 @@
 color: white;
 background-image: url("/images/me.jpg");
 background-size: cover;
-min-height: 7vh;
+max-width:100%;
+background-position: center;
+min-height: 75vh;
 }
 
 
