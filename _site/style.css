@@ -138,21 +138,21 @@
         background-position: center;
         min-height: 30rem;
       }
-      .banner{
-  color: white;
-  background-image: url("/images/birdseyelaptop.jpg");
-  background-size: cover;
-  min-height: 75vh;
-}
+  .banner{
+    color: white;
+    background-image: url("/images/birdseyelaptop.jpg");
+    background-size: cover;
+    min-height: 75vh;
+  }
 
-.Caroline{
-color: white;
-background-image: url("/images/me.jpg");
-background-size: cover;
-max-width:100%;
-background-position: center;
-min-height: 75vh;
-}
+  .Caroline{
+    color: white;
+    background-image: url("/images/me.jpg");
+    background-size: cover;
+    max-width:;
+    background-position: center;
+    min-height: 75vh;
+    }
 
 
 .image1{
