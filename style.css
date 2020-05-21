@@ -93,6 +93,14 @@
         color: inherit;
       }
 
+      a{
+        text-decoration: none;
+        color: inherit;
+      }
+
+      a:hover {
+        color: #8ADCDF  ;
+      }
       header nav a,
       .inline a {
         display: inline-block;
