@@ -1,5 +1,4 @@
-alert("bobs");
-$(".grt-cookies").grtCookie({
+$(".grt-cookie").grtCookie({
   textcolor:"#333",
   background:"#fff",
   buttonbackground:"#333",
