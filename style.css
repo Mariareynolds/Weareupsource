@@ -153,6 +153,44 @@
         background-position: center;
         min-height: 30rem;
       }
+
+      .Whychooseupsource{
+        background-image: url('/images/Whychooseupsource.jpg');
+        background-size: cover;
+        background-position: center;
+        min-height: 30rem;
+      }
+      .Howwework{
+        background-image: url('/images/Howwework.jpg');
+        background-size: cover;
+        background-position: center;
+        min-height: 30rem;
+      }
+      .Tools{
+        background-image: url('/images/Tools.jpg');
+        background-size: cover;
+        background-position: center;
+        min-height: 30rem;
+      }
+      .Retainer{
+        background-image: url('/images/Retainer.jpg');
+        background-size: cover;
+        background-position: center;
+        min-height: 30rem;
+      }
+      .Bespoke{
+        background-image: url('/images/Bespoke.jpg');
+        background-size: cover;
+        background-position: center;
+        min-height: 30rem;
+      }
+
+      .Inhouse {
+        background-image: url('/images/Inhouse.jpg');
+        background-size: cover;
+        background-position: center;
+        min-height: 30rem;
+      }
   .banner{
     color: white;
     background-image: url("/images/birdseyelaptop.jpg");
@@ -248,6 +286,18 @@
         font-weight: 500;
       }
 
+
+.skew{
+        flex-basis: 50%;
+        transform: skewX(-3deg);
+        content: "";
+        width: 30px;
+        position: absolute;
+        left: -10px;
+        top: 0;
+        bottom: 0;
+        z-index: -1;
+}
       .button:hover {
         color: rgb(60, 60, 60);
       }
