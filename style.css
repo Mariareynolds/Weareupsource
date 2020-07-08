@@ -176,20 +176,20 @@
         background-image: url('/images/Retainer.jpg');
         background-size: cover;
         background-position: center;
-        min-height: 30rem;
+        min-height: 20rem;
       }
       .Bespoke{
         background-image: url('/images/Bespoke.jpg');
         background-size: cover;
         background-position: center;
-        min-height: 30rem;
+        min-height: 20rem;
       }
 
       .Inhouse {
         background-image: url('/images/Inhouse.jpg');
         background-size: cover;
         background-position: center;
-        min-height: 30rem;
+        min-height: 20rem;
       }
   .banner{
     color: white;
@@ -237,7 +237,7 @@
         background-image: url("/images/femaleplanner.jpg");
         background-size: cover;
         background-position: center;
-        min-height: 75vh;
+        min-height: 20rem;
       }
 
 
