@@ -144,7 +144,7 @@
         background-image: url('/images/laptop.jpg');
         background-size: cover;
         background-position: center;
-        min-height: 30rem;
+        min-height: 20rem;
       }
 
       .bg-image2 {
@@ -158,19 +158,19 @@
         background-image: url('/images/Whychooseupsource.jpg');
         background-size: cover;
         background-position: center;
-        min-height: 30rem;
+        min-height: 20rem;
       }
       .Howwework{
         background-image: url('/images/Howwework.jpg');
         background-size: cover;
         background-position: center;
-        min-height: 30rem;
+        min-height: 20rem;
       }
       .Tools{
         background-image: url('/images/Tools.jpg');
         background-size: cover;
         background-position: center;
-        min-height: 30rem;
+        min-height: 20rem;
       }
       .Retainer{
         background-image: url('/images/Retainer.jpg');
@@ -195,12 +195,12 @@
     color: white;
     background-image: url("/images/birdseyelaptop.jpg");
     background-size: cover;
-    min-height: 75vh;
+    min-height: 25rem;
   }
 
   .Caroline{
     color: white;
-    background-image: url("/images/me.jpg");
+    background-image: url("/images/Caroline.jpg");
     background-size: cover;
     max-width:;
     background-position: center;
@@ -276,7 +276,7 @@
       .button-solid,
       .button-inverted {
         text-decoration: none;
-        color: #8ADCDF ;
+        color: rgb(60, 60, 60);
         border: 2px solid;
         padding: 0.6rem 2rem;
         margin-top: 1rem;
@@ -287,21 +287,20 @@
       }
 
 
-.skew{
-        flex-basis: 50%;
-        transform: skewX(-3deg);
-        content: "";
-        width: 30px;
-        position: absolute;
-        left: -10px;
-        top: 0;
-        bottom: 0;
-        z-index: -1;
-}
       .button:hover {
-        color: rgb(60, 60, 60);
+        color: #8ADCDF;
       }
-
+      .skew{
+              flex-basis: 50%;
+              transform: skewX(-3deg);
+              content: "";
+              width: 30px;
+              position: absolute;
+              left: -10px;
+              top: 0;
+              bottom: 0;
+              z-index: -1;
+      }
       form input[type=text],
       form input[type=email],
       form textarea {
