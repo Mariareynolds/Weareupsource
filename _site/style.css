@@ -11,12 +11,12 @@
   }
 
   img {
-    max-width: 60%; /* this ensures images never break their container */
+    max-width: 100%; /* this ensures images never break their container */
     height: auto;
   }
 
   body {
-    font-family: 'Noto Sans HK', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
     color: rgb(120,120,125);
   }
 
@@ -58,9 +58,9 @@
   /* General typography */
 
   h2, h3, h4, h5, h6 {
-    line-height: 1;
+    line-height: 1.4;
     margin-bottom: 0.8rem;
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Arbutus Slab', serif;
     font-weight: 200;
   }
 
@@ -139,6 +139,10 @@
       margin-bottom: 1rem;
     }
 
+    .logo{
+      max-width: 60%;
+      height: auto;
+    }
 
       .bg-image {
         background-image: url('/images/laptop.jpg');
