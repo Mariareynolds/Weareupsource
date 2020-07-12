@@ -35,7 +35,7 @@
   .padded-1 {  padding: 1rem;  }
   .padded-2 {  padding: 2rem;  }
   .paddingtop {  padding-top: 2rem;}
-
+  .margin   {  margin:  2rem;  }
   .capped-width { width: 80%; margin: auto;}
 
   .tall-50  {  min-height: 50vh;   }
@@ -239,6 +239,33 @@
         background-position: center;
         min-height: 20rem;
       }
+
+
+  .vertical-line-review{
+        border-right: 1px solid #ccc;
+        margin: 5% 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+          }
+
+
+    .fas{
+      padding: 0.5%
+      color: white;
+      font-size: 3rem;
+    }
+
+
+
+    .quote-marks{
+      font-size: 1rem;
+      color: grey;
+    }
+
+    .reversed{
+    transform:rotateY(180deg)
+    }
 
 
       .card {
