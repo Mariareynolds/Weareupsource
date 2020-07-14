@@ -295,6 +295,9 @@
     padding-bottom: 2rem;
 
   }
+    .community-member{
+      max-width: 40%
+    }
 
 .underlined{
   text-decoration: underline;
