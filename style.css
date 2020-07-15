@@ -32,6 +32,7 @@
   .centered {  text-align: center;   }
 
   .padded   {  padding: 5%;    }
+  .padded10   {  padding: 10%;    }
   .padded-1 {  padding: 1rem;  }
   .padded-2 {  padding: 2rem;  }
   .paddingtop {  padding-top: 2rem;}
@@ -71,6 +72,7 @@
 
   p, ul {
      margin-bottom: 0.8rem;
+     font-family: 'Source Sans Pro', sans-serif;
   }
 
 /* Header */
@@ -296,9 +298,14 @@
 
   }
     .community-member{
-      max-width: 40%
+      max-width: 95%
     }
 
+
+.italics{
+font-family: 'Source Sans Pro', ;
+font-size: 0.7rem;
+}
 .underlined{
   text-decoration: underline;
 }
