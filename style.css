@@ -42,10 +42,17 @@
   .tall-50  {  min-height: 50vh;   }
   .tall-100 {  min-height: 100vh;  }
 
-  .dark-bg      {  background-color: #D5D5D5 ;     }
+  /* .dark-bg      {  background-color: #D5D5D5 ;     }
   .light-bg     {  background-color: #E6E6E6;  }
-  .featured-bg  {  background-color: #FFE6E6  ;       }
+  .featured-bg  {  background-color: #FFE6E6  ;       } */
 
+  .dark-bg      {  background-color: #9BB2AC ;     }
+  .light-bg     {  background-color: #D0D9D9;  }
+  .featured-bg  {  background-color: #5F747A  ;       }
+
+.white{
+  color: white;
+}
   /* #FFE6E6 */
 
   .light-text   { color: white; }
@@ -259,13 +266,13 @@
     .fas{
       padding: 0.5%
       color: white;
-      font-size: 3rem;
+      font-size: 1rem;
     }
 
 
 
     .quote-marks{
-      font-size: 1rem;
+      font-size: 0.6rem;
       color: grey;
     }
 
@@ -293,7 +300,7 @@
     .fas{
     padding: 0.75%
     color: white;
-    font-size: 6rem;
+    font-size: 3rem;
     padding-bottom: 2rem;
 
   }
