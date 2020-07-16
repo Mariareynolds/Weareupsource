@@ -213,11 +213,12 @@
 
   .Caroline{
     color: white;
-    background-image: url("/images/Caroline.jpg");
+    /* background-image: url("/images/Caroline.jpg"); */
     background-size: cover;
     max-width:;
     background-position: center;
     min-height: 75vh;
+    object-fit: cover;
     }
 
 
@@ -383,6 +384,7 @@ footer h3 {
 @media(max-width:768px){
 
   .Caroline  {
-    max-height: 50vh;
+    min-height: 40vh;
+    object-fit: cover;
   }
 }
