@@ -387,4 +387,21 @@ footer h3 {
     min-height: 40vh;
     object-fit: cover;
   }
+
+.center{
+  text-align: center;
+}
+
+  .mobileorder1{
+    order:1;
+  text-align: center;
+  }
+  .mobileorder2{
+    order:2;
+    text-align: center;
+  }
+  .mobileorder3{
+    order:3;
+    
+  }
 }
