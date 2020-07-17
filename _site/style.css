@@ -239,7 +239,7 @@
   }
 
   .image3{
-      
+
       background-image: url("/images/meetings.jpg");
       background-size: cover;
       background-position: center;
@@ -366,6 +366,7 @@ font-size: 0.7rem;
           padding: 0.5rem;
           border: 1px solid rgb(220,220,220);
           line-height: 3.45;
+          font-family: 'Source Sans Pro', sans-serif;
           /* font-Size: 4rem; */
           }
 
