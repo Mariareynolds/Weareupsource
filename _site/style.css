@@ -365,7 +365,8 @@ font-size: 0.7rem;
           margin: 0.3rem 0;
           padding: 0.5rem;
           border: 1px solid rgb(220,220,220);
-          line-height: 3.45
+          line-height: 3.45;
+          /* font-Size: 4rem; */
           }
 
 footer .info {
@@ -402,6 +403,6 @@ footer h3 {
   }
   .mobileorder3{
     order:3;
-    
+
   }
 }
